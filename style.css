@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Ramadan;
+    src: url(Site/fonts\QamarRamadhan.otf);
+}
+
+p {
+   font-size: 20px; 
+   padding-left:  100px;
+   padding-right:  100px;
+}
